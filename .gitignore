@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+src/notebooks/test_retrieval.ipynb
+
+# VS Code
+.vscode/
+
+# Intermediate / raw data
+data/chunks_data/
+data/cleaned_data/
+data/embeddings_data/
+data/extracted_data/
+data/pdf_files/
+
+# Local testing file
+test_gemini.py
