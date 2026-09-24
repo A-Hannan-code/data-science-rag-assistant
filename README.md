@@ -113,4 +113,6 @@ This project was built as a practical implementation of Retrieval-Augmented Gene
 
 **Abdul Hannan**
 
-[GitHub](https://github.com/A-Hannan-code)
+* GitHub: [A-Hannan-code](https://github.com/A-Hannan-code)
+
+* LinkedIn: [Abdul Hannan](https://www.linkedin.com/in/abdul-hannan-2025a3395/)
